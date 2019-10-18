@@ -5,7 +5,7 @@ import json
 import googlemaps
 from datetime import datetime
 import pandas as pd
-gmaps = googlemaps.Client(key='AIzaSyCqRbZGdjXPN_YUAQbXHPB5760dKXcTq20')
+gmaps = googlemaps.Client(key='')
 
 
 def location():
